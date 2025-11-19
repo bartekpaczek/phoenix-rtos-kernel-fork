@@ -14,6 +14,7 @@ on:
       - 'bpaczek/*'
 
 
+
 jobs:
   call-ci:
     uses: bartekpaczek/phoenix-rtos-project-fork/.github/workflows/ci-submodule.yml@master
